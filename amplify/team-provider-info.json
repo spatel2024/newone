@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-newone-dev-130758-authRole",
+      "UnauthRoleArn": "arn:aws:iam::703954904303:role/amplify-newone-dev-130758-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::703954904303:role/amplify-newone-dev-130758-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-newone-dev-130758-deployment",
+      "UnauthRoleName": "amplify-newone-dev-130758-unauthRole",
+      "StackName": "amplify-newone-dev-130758",
+      "StackId": "arn:aws:cloudformation:us-east-1:703954904303:stack/amplify-newone-dev-130758/65c98f10-66c6-11ee-a352-1236ce966ed9",
+      "AmplifyAppId": "d352d74fu8lmns"
+    }
+  }
+}
